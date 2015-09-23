@@ -1,0 +1,6 @@
+#!/Users/baekdaehyun/GoogleDrive/Dev/WAU/venv/bin/python
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()

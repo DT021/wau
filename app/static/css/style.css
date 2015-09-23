@@ -1,0 +1,30 @@
+html{
+	width:100%;
+}
+table{
+	width:900px;
+	margin:0 auto;
+}
+
+table thead{
+	font-weight: 500;
+	font-size:20px;
+}
+
+.header{
+	width:900px;
+	margin:10px auto;
+}
+
+.header > h1, h2{
+	text-align: center;
+}
+
+.crawl_form{
+	width:300px;
+	margin:0 auto;
+}
+
+.size{
+	text-align: center;
+}
